@@ -1,0 +1,12 @@
+15:29:47.935 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\Opencart_HybridframeworkV1\grouping.xml"
+15:29:48.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\Opencart_HybridframeworkV1\grouping.xml
+
+15:30:03.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\Opencart_HybridframeworkV1\grouping.xml"
+15:30:03.503 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\Opencart_HybridframeworkV1\grouping.xml
+
+15:38:57.475 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\Opencart_HybridframeworkV1\grouping.xml"
+15:38:57.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\Opencart_HybridframeworkV1\grouping.xml
+
